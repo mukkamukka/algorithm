@@ -1,6 +1,6 @@
 package 단계별로.chapter05;
 
-/* https://www.acmicpc.net/problem/2743 */
+/* https://www.acmicpc.net/problem/9086 */
 
 import java.io.BufferedReader;
 import java.io.IOException;
