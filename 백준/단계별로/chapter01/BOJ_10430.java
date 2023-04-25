@@ -1,4 +1,4 @@
-package 백준.level1;
+package 단계별로.chapter01;
 
 /* https://www.acmicpc.net/problem/10430 */
 
