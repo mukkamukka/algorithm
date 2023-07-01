@@ -1,5 +1,7 @@
 package queue;
 
+/*https://school.programmers.co.kr/learn/courses/30/lessons/42586*/
+/* 기능개발 */
 
 import java.util.ArrayList;
 import java.util.LinkedList;
