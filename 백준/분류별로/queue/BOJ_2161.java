@@ -1,10 +1,10 @@
 package 분류별로.queue;
 
+/* https://www.acmicpc.net/problem/2161 */
+
 import java.io.*;
 import java.util.LinkedList;
 import java.util.Queue;
-
-/* https://www.acmicpc.net/problem/2161 */
 
 public class BOJ_2161 {
     public static void main(String[] args) throws IOException {
