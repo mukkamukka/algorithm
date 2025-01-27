@@ -1,5 +1,7 @@
 package 단계별.chapter15;
 
+/* https://www.acmicpc.net/problem/1934 */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
