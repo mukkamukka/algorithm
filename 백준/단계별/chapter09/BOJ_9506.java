@@ -33,8 +33,8 @@ public class BOJ_9506 {
 
                 int num = queue.size();
                 for (int i = 0; i < num; i++) {
-                    int measure = queue.poll();
-                    sb.append(measure);
+                    int factor = queue.poll();
+                    sb.append(factor);
                     if (i != num - 1) {
                         sb.append(" + ");
                     }
