@@ -5,8 +5,8 @@ package 분류별.deque;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.LinkedList;
 import java.util.StringTokenizer;
 
 public class BOJ_10866 {
@@ -15,7 +15,7 @@ public class BOJ_10866 {
         int n = Integer.parseInt(br.readLine());
 
         StringBuilder sb = new StringBuilder();
-        Deque<Integer> deque = new LinkedList<>();
+        Deque<Integer> deque = new ArrayDeque<>();
         for (int i = 0; i < n; i++) {
             StringTokenizer st = new StringTokenizer(br.readLine());
             String command = st.nextToken();
