@@ -6,7 +6,7 @@ package queue;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class BOJ_42587 {
+public class PG_42587 {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder();
 
