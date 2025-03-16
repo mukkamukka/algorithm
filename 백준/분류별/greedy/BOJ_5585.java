@@ -1,5 +1,7 @@
 package 분류별.greedy;
 
+/* https://www.acmicpc.net/problem/5585 */
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
